@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurake-feign" />
+        <module name="eurake-ribbon" />
+        <module name="eurake-server" />
+        <module name="sayhello" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eurake-feign" target="1.8" />
+      <module name="eurake-ribbon" target="1.8" />
+      <module name="eurake-server" target="1.8" />
+      <module name="sayhello" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

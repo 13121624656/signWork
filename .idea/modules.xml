@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurake-feign/eurake-feign.iml" filepath="$PROJECT_DIR$/eurake-feign/eurake-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-ribbon/eurake-ribbon.iml" filepath="$PROJECT_DIR$/eurake-ribbon/eurake-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-server/eurake-server.iml" filepath="$PROJECT_DIR$/eurake-server/eurake-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-client/hystrix-client.iml" filepath="$PROJECT_DIR$/hystrix-client/hystrix-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayhello/sayhello.iml" filepath="$PROJECT_DIR$/sayhello/sayhello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/signWork.iml" filepath="$PROJECT_DIR$/.idea/signWork.iml" />
+    </modules>
+  </component>
+</project>

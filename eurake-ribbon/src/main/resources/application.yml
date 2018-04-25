@@ -1,0 +1,11 @@
+spring:
+    application:
+               name: eurake-ribbon
+server:
+   port: 1315
+eurake:
+    client:
+      serviceUrl:
+          defaultZone: http://peer1:8761/eureka
+
+
